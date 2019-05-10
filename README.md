@@ -15,17 +15,17 @@ WebNow JNLP
         <resources>
                 <java href="http://java.sun.com/products/autodl/j2se" version="1.7+"/>
 
-                <jar href="http://myURL.to/webnow/webnowapplet.jar" main="true"/>
-                <jar href="http://myURL.to/webnow/lang.jar"/>
-                <jar href="http://myURL.to/webnow/TimingFramework-1.0.jar"/>
-                <jar href="http://myURL.to/webnow/jxlayer.jar"/>
-                <jar href="http://myURL.to/webnow/l2fprod-common-all.jar"/>
-                <jar href="http://myURL.to/webnow/icebrowser.jar"/>
-                <jar href="http://myURL.to/webnow/jniwrap-3.8.4.jar"/>
-                <jar href="http://myURL.to/webnow/comfyj-2.10.jar"/>
-                <jar href="http://myURL.to/webnow/winpack-3.8.4.jar"/>
-                <jar href="http://myURL.to/webnow/slf4j-api-1.5.8.jar"/>
-                <jar href="http://myURL.to/webnow/slf4j-simple-1.5.8.jar"/>
+                <jar href="webnowapplet.jar" main="true"/>
+                <jar href="lang.jar"/>
+                <jar href="TimingFramework-1.0.jar"/>
+                <jar href="jxlayer.jar"/>
+                <jar href="l2fprod-common-all.jar"/>
+                <jar href="icebrowser.jar"/>
+                <jar href="jniwrap-3.8.4.jar"/>
+                <jar href="comfyj-2.10.jar"/>
+                <jar href="winpack-3.8.4.jar"/>
+                <jar href="slf4j-api-1.5.8.jar"/>
+                <jar href="slf4j-simple-1.5.8.jar"/>
         </resources>
 
 <applet-desc main-class="com.imagenow.webnow.applet.WebNow"  name="webnow" width="1280" height="800">
