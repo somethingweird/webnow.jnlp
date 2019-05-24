@@ -15,7 +15,7 @@ I make makes no warranty that
 
 The software, code sample and their documentation made available here could include technical or other mistakes, inaccuracies or typographical errors. We may make changes to the software or documentation made available on its web site at any time without prior-notice.may be out of date, and we make no commitment to update such materials.
 
-I assume no responsibility for errors or omissions in the software or documentation available from its web site.
+I assume no responsibility for errors or omissions in the software or documentation available.
 
 In no event shall I be liable to you or any third parties for any special, punitive, incidental, indirect or consequential damages of any kind, or any damages whatsoever, including, without limitation, those resulting from loss of use, data or profits, and on any theory of liability, arising out of or in connection with the use of this software.
 
